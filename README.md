@@ -10,7 +10,7 @@ En samling av verktøy for økonomistyring.
 ## Bruk
 Hvert script har et eget tema hvor man stilles spørsmål for å finne frem til den opplysningen man mangler.
 
-Eksempel: Med <code>python nåverdi_fremtidsverdi_og_avkastningskrav.py</code> kan man oppgi nåverdi og avkastningskrav også vil verktøyet finne fremtidsverdi.
+Eksempel: Med <code>python nåverdi_fremtidsverdi_og_avkastningskrav.py</code> kan man oppgi nåverdi og avkastningskrav for å finne fremtidsverdi.
 
 Scriptfilen kalt tester.py tester alle funksjonene så man vet sikkert at de fungerer riktig.
 
